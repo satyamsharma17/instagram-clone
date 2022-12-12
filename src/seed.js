@@ -5,7 +5,7 @@ export function seedDatabase(firebase) {
       .collection('photos')
       .add({
         photoId: i,
-        userId: [],
+        userId: '',
         imageSrc: `/images/users/charvi/${i}.jpg`,
         caption: [],
         likes: [],

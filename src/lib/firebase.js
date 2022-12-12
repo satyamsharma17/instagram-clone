@@ -5,12 +5,12 @@ import 'firebase/database';
 // import { seedDatabase } from '../seed';
 
 const config = {
-  apiKey: 'AIzaSyBlGvGijciFxA8axT8JMFcqoZ3SzKa2__k',
-  authDomain: 'instagram-20f6d.firebaseapp.com',
-  projectId: 'instagram-20f6d',
-  storageBucket: 'instagram-20f6d.appspot.com',
-  messagingSenderId: '515152198553',
-  appId: '1:515152198553:web:2e6c15d9174dc98c85f108',
+  apiKey: 'AIzaSyBuqoucGtnSilZ2i4wniTXu41ERqU3fdVk',
+  authDomain: 'instagram-a185f.firebaseapp.com',
+  projectId: 'instagram-a185f',
+  storageBucket: 'instagram-a185f.appspot.com',
+  messagingSenderId: '303988198206',
+  appId: '1:303988198206:web:1101876e9de238906f3a6f'
 };
 
 const firebase = Firebase.initializeApp(config);
